@@ -1,6 +1,6 @@
-#Hi, I'm Zsolt
+# Hi, I'm Zsolt
 
-##About my background
+## About my background
 
 I'm programming since I was 13 yo. At the time, I made several different game modes for GTA San Andreas Multiplayer, so me and my class mates could have fun.
 
