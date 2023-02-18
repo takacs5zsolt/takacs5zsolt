@@ -5,7 +5,11 @@
 I'm programming since I was 13 yo. At the time, I made several different game modes for GTA San Andreas Multiplayer, so me and my class mates could have fun.
 
 Later on I studied at the University of Obuda, Budapest where I unfortunatelly dropped out at the end of the 4th semester.
-After this I joined Ruander, where I study Software Development. Right now I'm at the end of this journey and will take my finals at Dec of '22.
+After this I joined Ruander, where I study Software Development. Right now I'm working at Oriana Software ltd as a Software Developer. 
+My main tasks are:
+* Creating SOAP webservices / communicating with webservices via SOAP
+* Create custom .NET solutions for clients based on Effector.
+* Maintaining live applications.
 
 - 👀 I’m interested in software architecture, design patterns and algorithms. Basically the essential stuff to solve any problem.
 - 🎶 My hobbies are drawing, watching movies, reading a good SCI-FI & learning.
