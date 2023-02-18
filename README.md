@@ -11,6 +11,8 @@ My main tasks are:
 * Create custom .NET solutions for clients based on Effector.
 * Maintaining live applications.
 
+
+## Off-work:
 - 👀 I’m interested in software architecture, design patterns and algorithms. Basically the essential stuff to solve any problem.
 - 🎶 My hobbies are drawing, watching movies, reading a good SCI-FI & learning.
 - 📫 Reach me out @ takacs.5.zsolt@gmail.com or via [LinkedIn](https://www.linkedin.com/in/zsolt-tak%C3%A1cs-a18934211/) 
